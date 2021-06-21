@@ -444,3 +444,8 @@ $RECYCLE.BIN/
 appsettings.json
 
 ssl
+API/Migrations/20210126140329_InitialCreate.cs
+API/Migrations/20210126140329_InitialCreate.Designer.cs
+API/Migrations/20210126230735_UserPasswordAdded.cs
+API/Migrations/20210126230735_UserPasswordAdded.Designer.cs
+API/Migrations/DataContextModelSnapshot.cs
